@@ -2,6 +2,11 @@
 Todo List App - Create Board, Manage Board, Assign Members to your board, Notification Features while assigning New member to board, Reorder Tasks,
 Label Color, Add Due date.Edit Profile Details.
 
+In This user has the option to assign a job to more than one person and to specify a
+deadline for completion. User Can Prioritise the Card according to his needs and can also label the color of card .
+User Will also get a notification when a new member is assigned to a board and can see how many members have
+been assigned to the board.
+
 ## Screenshots
 ![resize-17036168931300419172IMG20230907WA0011](https://github.com/harshitkumar18/Projectmanag-Trello-Clone/assets/136173522/01c019c6-dcbe-4961-bd9c-69e4218825d9)   ![resize-1703616924606053593IMG20230907WA0012](https://github.com/harshitkumar18/Projectmanag-Trello-Clone/assets/136173522/d0c396b8-ef16-4d23-a472-c1e5191f5fe2)
 
